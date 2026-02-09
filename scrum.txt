@@ -1,0 +1,1 @@
+Scrum is an Agile project management framework that organizes work into short, time-boxed iterations called sprints (typically 1–4 weeks). It is designed to help teams collaborate, adapt quickly to change, and deliver value incrementally. 
