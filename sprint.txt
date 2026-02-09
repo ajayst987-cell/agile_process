@@ -1,0 +1,1 @@
+A Sprint Program in Agile is a time-boxed iteration—typically lasting 1 to 4 weeks—where a defined set of tasks from the Product Backlog is completed to deliver a potentially shippable product increment.
